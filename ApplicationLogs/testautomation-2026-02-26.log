@@ -1,0 +1,300 @@
+2026-02-26 14:03:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 14:03:33 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 14:03:33 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 14:03:33 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 14:03:37 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 14:03:37 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 14:03:37 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 14:03:37 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 14:03:39 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 14:03:40 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 14:03:40 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 14:03:40 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 14:03:40 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 14:03:40 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 14:03:40 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 14:08:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 14:08:09 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 14:08:09 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 14:08:09 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 14:08:10 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 14:08:10 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 14:08:10 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 14:08:10 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 14:08:12 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 14:08:13 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 14:16:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 14:16:51 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 14:16:51 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 14:16:51 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 14:16:53 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 14:16:53 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 14:16:53 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 14:16:53 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 14:16:55 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 14:16:55 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 14:16:56 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 14:41:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 14:41:46 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 14:41:47 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 14:41:47 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 14:41:47 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 14:41:47 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 14:41:47 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 14:41:47 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 14:41:49 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 14:41:50 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 14:43:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 14:43:47 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 14:43:49 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 14:43:49 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 14:43:49 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 14:43:49 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 14:43:49 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 14:43:49 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 14:43:50 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 14:47:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 14:47:40 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 14:47:41 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 14:47:41 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 14:47:42 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 14:47:42 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 14:47:42 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 14:47:42 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 14:47:44 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 14:47:45 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 14:47:45 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 14:47:45 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 14:47:45 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 14:47:45 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 14:47:45 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 19:33:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 19:33:15 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 19:33:15 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 19:33:15 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 19:33:16 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 19:33:16 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 19:33:16 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 19:33:16 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 19:33:18 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 19:33:19 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 19:33:19 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 19:33:19 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 19:33:19 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 19:33:19 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 19:33:19 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 19:33:20 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 19:33:20 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 19:33:20 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 19:33:20 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 19:33:20 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 19:33:20 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 19:35:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 19:35:39 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 19:35:41 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 19:35:41 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 19:35:41 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 19:35:41 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 19:35:41 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 19:35:41 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 19:35:43 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 19:35:43 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 19:35:44 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 19:35:45 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 19:35:45 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 19:35:45 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 19:35:45 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 19:35:45 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 19:35:45 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 22:07:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 22:07:28 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 22:07:28 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 22:07:28 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 22:07:30 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 22:07:30 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 22:07:30 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 22:07:30 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 22:07:32 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 22:07:33 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
+2026-02-26 22:08:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\amand\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-02-26 22:08:42 [main] INFO  page.methods.HomePageMethods - URL is entered in browser
+2026-02-26 22:08:42 [main] INFO  page.methods.HomePageMethods - Clicking on Novice link
+2026-02-26 22:08:42 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Novice link
+2026-02-26 22:08:42 [main] INFO  page.methods.HomePageMethods - Clicking on Practice Form link
+2026-02-26 22:08:43 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Practice Form link
+2026-02-26 22:08:43 [main] INFO  page.methods.HomePageMethods - Clicking on Basic Form link
+2026-02-26 22:08:43 [main] INFO  page.methods.HomePageMethods - Successfully clicked on Basic Form link
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Switching to Iframe
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Successfully switched to Iframe
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Entering username: nitin01
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Username entered successfully
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Entering password
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Password entered successfully
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Entering comments
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Comments entered successfully
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Selecting gender: Male
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Gender selected successfully
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Selecting skills: Java,Selenium
+2026-02-26 22:08:45 [main] INFO  page.methods.HomePageMethods - Skills selected successfully
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Selecting experience: 1-2 Years
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Experience selected successfully
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Selecting automation tools: Selenium,Playwright
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Automation tools selected successfully
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Uploading resume from path: testdata/resume1.pdf
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Resume uploaded successfully
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Clicking on Submit button
+2026-02-26 22:08:46 [main] INFO  page.methods.HomePageMethods - Submit button clicked successfully
