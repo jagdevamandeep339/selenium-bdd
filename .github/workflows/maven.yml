@@ -76,5 +76,5 @@ jobs:
             Please find the Extent Report from the latest CI run attached.
 
             Regards,
-            Nitin Chauhan
+            Amandeep
           attachments: ${{ env.ZIP_FILE }}
